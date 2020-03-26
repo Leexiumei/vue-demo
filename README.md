@@ -2,3 +2,5 @@
 
 ## 自定义弹窗组件（utils/kmodal）
 ### create / extend
+
+## 自定义简易 router（krouter、components/krouter）
