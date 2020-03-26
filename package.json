@@ -9,6 +9,7 @@
     "format": "prettier --write \"src/**/*\" && yarn lint --fix"
   },
   "dependencies": {
+    "async-validator": "^3.2.4",
     "core-js": "^3.6.4",
     "prettier": "^2.0.2",
     "vue": "^2.6.11",
